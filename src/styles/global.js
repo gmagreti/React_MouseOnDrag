@@ -11,12 +11,12 @@ export default createGlobalStyle`
   }
 
   html, body #root {
-    height:100%;
+    height: 100%;
   }
 
   body {
     font: 14px 'Roboto Mono', sans-serif;
-    background: #3cf1f8;
+    background: #ecf1f8;
     color: #333;
     -webkit-font-smoothing: antialiased!important;
   }
